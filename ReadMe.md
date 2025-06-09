@@ -79,11 +79,11 @@ The script uses a timestamp to avoid overwriting previous outputs.
 
 If no data is present for some states, they will be excluded from the visualization and CSV export.
 
-📈 Future Enhancements
+📈 Future Enhancements? (TBD)
 Support for additional data sources (e.g., hazard severity, economic impact).
 
 Enhanced interactive visualizations.
 
 Automated updates for new disaster data.
 
-Happy data exploration! 🚀
+Happy data exploration! 🚀 *Generated with the Assistance of ChatGPT, edited for consistency, content and cohesion.
